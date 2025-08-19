@@ -8,12 +8,12 @@ variable "environment" {
 
 variable "zone_name" {
   type        = string
-  default     = "daws84s.site"
+  default     = "narendrablog.shop"
   description = "description"
 }
 
 variable "zone_id" {
   type        = string
-  default     = "Z032558618100M4EJX8X4"
+  default     = "Z04446181QZWMSEOCZUNK"
   description = "description"
 }
