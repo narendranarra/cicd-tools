@@ -43,6 +43,7 @@ Now Jenkins is ready to use.
 
 
 ****If you explain sonarqube you will get good impression even interviewer is not asked you can tell*****
+if 80eks is failing u need to add the jenkings-agent sg in eks inbound rules, while doing cd if it is failing it is due to kubectl not installed in jenkins-agent , try to install then it will sucess.
 
 ### SonarQube Quality Gates
 
