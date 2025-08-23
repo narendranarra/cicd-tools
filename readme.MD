@@ -41,6 +41,9 @@ Now Jenkins is ready to use.
 * Make sure roboshop namespace exist.
 * make sure EKS control plane allows Jenkins agent to connect on port 443 HTTPS.
 
+
+****If you explain sonarqube you will get good impression even interviewer is not asked you can tell*****
+
 ### SonarQube Quality Gates
 
 🔴 Bugs
